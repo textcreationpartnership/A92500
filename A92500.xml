@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of Parliament: concerning patronages. July 19. 1690</title>
+            <title>Acts. 1690-07-19</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92500</idno>
+            <idno type="STC">Wing S1124A</idno>
+            <idno type="STC">ESTC R232189</idno>
+            <idno type="EEBO-CITATION">99900099</idno>
+            <idno type="PROQUEST">99900099</idno>
+            <idno type="VID">137399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2519:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of Parliament: concerning patronages. July 19. 1690</title>
+                  <title>Acts. 1690-07-19</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to Their most Excellent Majesties,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>anno DOm. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patronage, Political --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137399:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>ACT OF PARLIAMENT: CONCERNING PATRONAGES. <date>
+                  <hi>July</hi> 19. 1690.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>UR SOVERAIGN LORD and LADY, the King and Queens Ma<g ref="char:EOLhyphen"/>jeſties, Conſidering that the power of preſenting Miniſters, to vacant Chur<g ref="char:EOLhyphen"/>ches of late exerciſed by Patrons, hath been greatly abuſed, and is inconvenient to be continued in this Realm, Do therefore, with the Advice and Con<g ref="char:EOLhyphen"/>ſent of the Eſtates of Parliament, here<g ref="char:EOLhyphen"/>by Diſcharge, Caſs, Annul, and make void, the aforeſaid Power, heretofore exerciſed by any Patron, of preſenting Miniſters to any Kirk now Vacant, or that ſhall hereafter happen to Vaik within this Kingdom, with all exerciſe of the ſaid Power: And alſo all Rights, Gifts and Infeſtments, Acts, Statutes, and Cuſtomes, in ſo far as they may be extended, or underſtood, to eſta<g ref="char:EOLhyphen"/>bliſh the ſaid Right of Preſentation; but prejudice alwayes, of ſuch Mini<g ref="char:EOLhyphen"/>ſters as are duly entred by the foreſaid Preſentations (while in uſe) their Right to the Manſe, Gleib, Benefice, Stipend, and other Profits, of their reſpective Churches, as accords: And but prejudice to the Patrons, of their right to imploy the vacant Stipends, on pious uſes, within the reſpective Paroches, except where the Patron is Popiſh, in which caſe he is to imploy the ſame on pious uſes, by the advice and appointment of the Presbytery; and in caſe the Patron ſhall fail in applying the vacant Stipend for the uſes foreſaid, that he ſhall loſe his right of Adminiſtration of the vacant Sti<g ref="char:EOLhyphen"/>pend, for that and the next vacancy, and the ſame ſhall be diſpoſed on by the Presbytry, to the uſes foreſaid; Excepting alwayes the vacand Sti<g ref="char:EOLhyphen"/>pends, within the bounds of the Synod of <hi>Argile:</hi> And to the effect, the
+<pb facs="tcp:137399:2"/>
+               <!-- PDF PAGE 23 -->
+               <pb n="1" facs="tcp:137399:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:137399:3"/>
+               <!-- PDF PAGE 24 -->calling and entring Miniſters in all time coming, may be orderly and re<g ref="char:EOLhyphen"/>gularly performed, Their Majeſties, with Conſent of the Eſtates of Par<g ref="char:EOLhyphen"/>liament, Do Statute and Declare, That in caſe of the vacancy of any par<g ref="char:EOLhyphen"/>ticular Church, and for ſupplying the ſame with a Miniſter, the Heretors of the ſaid Paroch (being Proteſtants) and the Elders, are to name and propoſe the perſon to the whole Congregation, to be either approven, or diſapproven by them; and if they diſapprove, that the diſapprovers give in their Reaſons, to the effect the affair may be cognoſced upon by the Presbytry of the bounds, at whoſe Judgment, and by whoſe determina<g ref="char:EOLhyphen"/>tion the Calling, and Entry of a particular Miniſter, is to be ordered and concluded: And it is hereby Enacted, That if application be not made by the Elderſhip, and Heretors of the Paroch, to the Presbytry, for the call and choiſe of a Miniſter, within the ſpace of ſix Moneths, after the vacancy, that then the Presbytry may proceed to provide the ſaid Paroch, and plant a Miniſter in the Church, <hi>tanquam jure devoluto.</hi> It is always hereby Declared, That this Act ſhall be but prejudice of the calling of Miniſters, to Royal Burghs by the Magiſtrats, Town-Council, and Kirk-Seſſion of the Burgh, where there is no Landward Paroch, as they have been in uſe before the year 1660. And where there is a con<g ref="char:EOLhyphen"/>ſiderable part of the Paroch in Landward, that the Call ſhall be by the Magiſtrats, Town-Council, Kirk-Seſſion, and the Heretors of the Land<g ref="char:EOLhyphen"/>ward Paroch. And in lieu and recompenſe of the ſaid Right of Preſenta<g ref="char:EOLhyphen"/>tion, hereby taken away; Their Majeſties with Advice and Conſent fore<g ref="char:EOLhyphen"/>ſaid, Statute and Ordain, the Heretors, and Liferenters of each Paroch, and the Town-Councils for the Burgh, to pay to the ſaid Patrons, be<g ref="char:EOLhyphen"/>twixt and <hi>Martinmaſs</hi> next, the ſum of ſix hundred merks, proportion<g ref="char:EOLhyphen"/>ally effeiring to their valued Rents in the ſaid Paroch, <hi>viz.</hi> two parts by the Heretors, and a third part by the Liferenters, deducing always the Patrons own part, effeiring to his proportion as an Heretor, and that up<g ref="char:EOLhyphen"/>on the ſaid Patron his granting a ſufficient and formal Renunciation of the ſaid right of Preſentation, in favours of the ſaid Heretors, Town-Council for the Burgh, and Kirk-Seſſion. And it is hereby Declared, That as to the Paroches, to which Their Majeſties have Right to preſent, upon payment of the ſaid ſix hundred merks to the Clerk of the Theſau<g ref="char:EOLhyphen"/>ry, Their Majeſties ſhall be fully denuded of Their Right of Preſentati<g ref="char:EOLhyphen"/>on, as to that Paroch; and as to other Patrons, if they refuſe to accept the ſaid ſix hundred merks, the ſame is to be conſigned in the hands of a reſponſable perſon in the paroch, upon the hazard of the Conſigners, not to be given up to the Patron, until he grant the ſaid Renunciation; al<g ref="char:EOLhyphen"/>lowing in the mean time, the Heretors, and Kirk-Seſſion, to call the Mi<g ref="char:EOLhyphen"/>niſter, conform to this Act; And Ordains Letters of Horning to be di<g ref="char:EOLhyphen"/>rect at the Inſtance of the Patron, againſt the Heretors and others; who ſhall not make payment of the ſaid ſix hundred merks, after the ſaid term of <hi>Martinmaſs</hi> next; and likewiſe at the Inſtance of the Heretors, and others willing to pay, againſt theſe who are unwilling: and in caſe the Patron be unwilling, to accept the ſaid ſum, or the Heretors and o<g ref="char:EOLhyphen"/>thers aforeſaid, unwilling to pay, Ordains Letters of Horning to be di<g ref="char:EOLhyphen"/>rect at the inſtance of Their Majeſties Sollicitor, againſt either of them. And further, Their Majeſties with Advice and Conſent foreſaid, Statute, Enact, and Declare, That the Right of the Teinds, of the ſaids Paroches,
+<pb n="3" facs="tcp:137399:3"/>
+               <!-- PDF PAGE 24 -->which are not Heretably Diſponed, ſhall by vertue of this preſent Act, be<g ref="char:EOLhyphen"/>long to the ſaid Patrons, with the burden always of the Miniſters Stipends, Tacks, and Prorogations, already granted of the ſaid Teinds, and of ſuch augmentations of Stipends, future Prorogations, and Erections of new Kirks, as ſhall be found juſt and expedient, providing the ſaids Patrons, getting right to the Teinds, by vertue of this preſent Act, and who had no right thereto of before, ſhall be; Likeas, They are hereby obliged to ſell to each Heretor the Teinds of his own Lands, at the rate of ſix years pur<g ref="char:EOLhyphen"/>chaſe, as the ſame ſhall be valued by a Commiſſion, for Valuation of Teinds: And whereas there are certain Lands and Annualrents holden of the ſaid Benefices, and Beneficed perſons, from which the Patrons might have ſome benefit ariſing to them; It is hereby Ordained, That the Right of Supe<g ref="char:EOLhyphen"/>riority of the ſaids Lands and Annualrents, ſhall belong to Their Maje<g ref="char:EOLhyphen"/>ſties in all time coming, with all the whole Caſualities and Emoluments thereof, notwithſtanding of any former <hi>Act</hi> of Parliament in the contrair; Reſerving notwithſtanding to the Patrons, the Feu-farms, and Feu-mails of the ſaid Superiorities, ay and while they receive payment and ſatisfa<g ref="char:EOLhyphen"/>ction from Their Majeſties, of the price thereof, at the rate of 1000 merks for each Chalder of Victual over-head, and for each hundred merks of Feu-mail, except where the ſaid Feu-farms are a part of the Miniſters mo<g ref="char:EOLhyphen"/>dified Stipend, or where the Miniſters is, and has been in poſſeſſion there<g ref="char:EOLhyphen"/>of by the ſpace of ten years, or where he has the full Benefice, in which caſes they are to be irredeemable. Excepting likewiſe from this <hi>Act</hi> the Superiorities belonging to the Deanry of <hi>Hamilton,</hi> and the Provoſtry of <hi>Bothwell,</hi> whereunto the Duke of <hi>Hamilton</hi> has Right, which are no ways hereby prejudged.</p>
+            <closer>
+               <signed>Extracted forth of the Records of Parliament, by me <hi>TH: B<g ref="char:V">Ʋ</g>RNET,</hi> Cls, Reg.</signed>
+            </closer>
+            <closer>GOD ſave King WILLIAM and Queen MARY.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno Dom.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
